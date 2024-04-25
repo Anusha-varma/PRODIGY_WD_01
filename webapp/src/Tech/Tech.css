@@ -1,0 +1,23 @@
+.Tech{
+    background-color: rgb(3, 33, 34);
+    font-style: italic;
+    color: aliceblue;
+    display: flex;
+    padding-top: 30vh;
+    height: 95vmax;
+    width: 95vmax;
+   gap: 10vh;
+   padding-left: 10vh;
+}
+button{
+ color:black;
+ background-color: rgb(255, 254, 253);
+ width: 35vh;
+ height: 12vh;
+ font-size: 5vh;
+ border-radius: 12px;
+}
+.img{
+    width:35vh;
+    height: 35vh;
+}

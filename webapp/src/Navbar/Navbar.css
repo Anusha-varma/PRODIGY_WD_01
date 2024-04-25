@@ -1,0 +1,15 @@
+.nav{
+    color: rgb(1, 6, 10);
+}
+.nav:hover{
+    color: aliceblue;
+}
+
+.container{
+    display: flex;
+  justify-content: flex-end;
+  gap: 10vh;
+  padding-right: 10vh;
+ align-items: center;
+ background-color: rgb(15, 155, 136);
+}

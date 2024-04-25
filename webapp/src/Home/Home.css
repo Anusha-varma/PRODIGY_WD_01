@@ -1,0 +1,28 @@
+.Home{
+    background-image: url("https://as1.ftcdn.net/v2/jpg/04/88/08/68/1000_F_488086891_nY0z5ZQN0nLkta42Ziv6kHehHlBclQyq.jpg");
+    background-size: contain;
+    color: rgb(249, 249, 250);
+    display: flex;
+    justify-content: center;
+    font-size: 5vh;
+    width: 95vmax;
+    height: 95vmax;
+    padding-left: 5vh;
+    padding-right: 5vh;
+    padding-top: 10vh;
+}
+.p{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 80vh;
+}
+h6{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+h4{
+    font-weight: 400;
+}
+h2{
+    font-weight:900;
+}
